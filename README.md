@@ -1,6 +1,6 @@
 # Edge-Detection
 
-![Misty water effect contrast](Edge-Detection-Examples.png)
+![](Edge-Detection-Examples.png)
 
 
 This project is to detect edges in images. This could later be used in Image Sharpening. Image Sharpening is when you enhance the definition of edges in a images. 
