@@ -13,3 +13,4 @@ Method 1:
 In this method, you subtract the smoothed image from the original image. To smooth an image, you make each pixel the average of the 8 pixels around it and itself.
 
 Method 2:
+![](Method-2-Diagram.png)
