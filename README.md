@@ -14,3 +14,9 @@ In this method, you subtract the smoothed image from the original image. To smoo
 
 Method 2:
 ![](Method-2-Diagram.png)
+
+Method 3:
+![](Method-3-Diagram.png)
+
+Method 4:
+![](Method-4-Diagram.png)
